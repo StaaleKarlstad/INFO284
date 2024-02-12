@@ -13,11 +13,19 @@ python -m venv venv
 
 2. Activate the virtual environment:
 
+Windows:
+
 ```ps
 .\venv\Scripts\activate
 ```
 
-3. install the project dependencies:
+Mac / linux:
+
+```
+source env/bin/activate
+```
+
+3. Install the project dependencies:
 
 ```ps
 pip install -r requirements.txt
