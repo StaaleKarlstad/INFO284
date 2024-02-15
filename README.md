@@ -22,7 +22,7 @@ Windows:
 Mac / linux:
 
 ```
-source env/bin/activate
+source venv/bin/activate
 ```
 
 3. Install the project dependencies:
